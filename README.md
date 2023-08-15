@@ -1,2 +1,2 @@
 # InnovaitingResponsibly
-The Innovaiting Responsibly toolkit designed by the author during his master's thesis
+The Innovaiting Responsibly toolkit I explored during my master's thesis at TU Delft.
